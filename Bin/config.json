@@ -1,0 +1,38 @@
+{
+  "repositorios": [
+    {
+      "nome": "cdcomum",
+      "url": "https://celso3@bitbucket.org/extradigital_desenv/cdcomum.git"
+    },
+    {
+      "nome": "classes", 
+      "url": "https://celso3@bitbucket.org/extradigital_desenv/classes.git"
+    },
+    {
+      "nome": "cartorio",
+      "url": "https://celso3@bitbucket.org/extradigital_desenv/cartorio.git"
+    },
+    {
+      "nome": "interpretaescritura",
+      "url": "https://celso3@bitbucket.org/extradigital_desenv/interpretaescritura.git"
+    }
+  ],
+  "sistemas": [
+    {
+      "sigla": "CDT",
+      "pasta": "C:\\Projetos\\CDT"
+    },
+    {
+      "sigla": "CPT", 
+      "pasta": "C:\\Projetos\\CPT"
+    },
+    {
+      "sigla": "CRC",
+      "pasta": "C:\\Projetos\\CRC"
+    },
+    {
+      "sigla": "CRT",
+      "pasta": "C:\\Projetos\\CRT"
+    }
+  ]
+}

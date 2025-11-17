@@ -1,0 +1,49 @@
+# Binários e arquivos compilados
+*.exe
+*.dll
+*.bpl
+*.dcu
+*.dcpil
+*.dcp
+*.so
+*.dylib
+
+# Configurações da IDE
+*.dsk
+*.dproj.local
+*.groupproj.local
+*.deployproj.local
+*.opendoc
+*.identcache
+*.otares
+
+# Diretórios de build
+Win32/
+Win64/
+Android/
+iOS/
+OSX64/
+Linux64/
+
+# Cache e histórico
+__history/
+__recovery/
+*.stat
+*.tds
+*.map
+
+# Temporários e backup
+*.~*
+*.bak
+*.tmp
+*.backup
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependências
+packages/
+lib/
+components/
